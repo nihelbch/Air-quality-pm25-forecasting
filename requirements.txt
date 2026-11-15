@@ -1,0 +1,11 @@
+# Exact versions used for the local validation environment.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+statsmodels==0.14.6
+nbformat==5.10.4
+ipykernel==7.2.0
+pytest==9.0.2

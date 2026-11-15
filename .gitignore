@@ -1,4 +1,13 @@
 .venv/
 .idea/
 __pycache__/
+*.pyc
 .ipynb_checkpoints/
+
+# Original datasets
+/data/raw/*
+!/data/raw/.gitkeep
+
+# Generated datasetss
+/data/processed/*
+!/data/processed/.gitkeep
