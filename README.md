@@ -2,7 +2,7 @@
 
 **Master 1 – Data Analysis | 2026–2027**
 
-**Group members:** Nihel Beghachi, Aouane Chaima, Baha Chaimaa, Akliouat Dounia
+**Group members:** Nihel Beghachi g1, Aouane Chaima g1, Baha Chaimaa g2, Akliouat Dounia g1
 
 ## About the project
 
